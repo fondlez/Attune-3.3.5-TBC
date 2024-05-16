@@ -775,8 +775,8 @@ Lang["Q1_10888"] = "Prueba de los naaru: Magtheridon"			-- https://es.tbc.wowhea
 Lang["Q2_10888"] = "A'dal en la Ciudad de Shattrath quiere que mates a Magtheridon."
 Lang["Q1_10680"] = "La Mano de Gul'dan"			-- https://es.tbc.wowhead.com/quest=10680
 Lang["Q2_10680"] = "Habla con el ensalmador de la tierra Torlok en El Altar de Condenación del Valle Sombraluna."
-Lang["Q1_10445"] = "Los viales de la eternidad"			-- https://es.tbc.wowhead.com/quest=10445
-Lang["Q2_10445"] = "Soridormi de las Cavernas del Tiempo quiere que recuperes los restos del vial de Vashj de lady Vashj en la Reserva Colmillo Torcido, y los restos del vial de Kael de Kael'thas Caminante del Sol, en El Castillo de la Tempestad."
+Lang["Q1_13432"] = "Los viales de la eternidad"			-- https://es.tbc.wowhead.com/quest=13432
+Lang["Q2_13432"] = "Soridormi de las Cavernas del Tiempo quiere que recuperes los restos del vial de Vashj de lady Vashj en la Reserva Colmillo Torcido, y los restos del vial de Kael de Kael'thas Caminante del Sol, en El Castillo de la Tempestad."
 Lang["Q1_10568"] = "Las tablillas de Baa'ri"			-- https://es.tbc.wowhead.com/quest=10568
 Lang["Q2_10568"] = "La anacoreta Ceyla del Altar de Sha'tar quiere que recojas 12 tablillas Baa'ri del suelo y de los trabajadores Lengua de Ceniza en las Ruinas de Baa'ri.\n\nCompletar misiones para los Aldor hará que disminuya tu nivel de reputación con los Arúspices."
 Lang["Q1_10683"] = "Las tablillas de Baa'ri"			-- https://es.tbc.wowhead.com/quest=10683

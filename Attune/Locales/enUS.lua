@@ -804,8 +804,8 @@ Lang["Q1_10888"] = "Trial of the Naaru: Magtheridon"			-- https://www.thegeekcru
 Lang["Q2_10888"] = "A'dal in Shattrath City wants you to slay Magtheridon."
 Lang["Q1_10680"] = "The Hand of Gul'dan"			-- https://www.thegeekcrusade-serveur.com/db/?quest=10680
 Lang["Q2_10680"] = "Speak with Earthmender Torlok at the Altar of Damnation in Shadowmoon Valley."
-Lang["Q1_10445"] = "The Vials of Eternity"			-- https://www.thegeekcrusade-serveur.com/db/?quest=10445
-Lang["Q2_10445"] = "Soridormi at Caverns of Time wants you to retrieve Vashj's Vial Remnant from Lady Vashj at Coilfang Reservoir and Kael's Vial Remnant from Kael'thas Sunstrider at Tempest Keep."
+Lang["Q1_13432"] = "The Vials of Eternity"			-- https://www.thegeekcrusade-serveur.com/db/?quest=13432
+Lang["Q2_13432"] = "Soridormi at Caverns of Time wants you to retrieve Vashj's Vial Remnant from Lady Vashj at Coilfang Reservoir and Kael's Vial Remnant from Kael'thas Sunstrider at Tempest Keep."
 Lang["Q1_10568"] = "Tablets of Baa'ri"			-- https://www.thegeekcrusade-serveur.com/db/?quest=10568
 Lang["Q2_10568"] = "Anchorite Ceyla at the Altar of Sha'tar wants you to collect 12 Baa'ri Tablets from the ground and from Ashtongue Workers at the Ruins of Baa'ri.\n\nCompleting quests with the Aldor will cause your Scryers reputation level to decrease."
 Lang["Q1_10683"] = "Tablets of Baa'ri"			-- https://www.thegeekcrusade-serveur.com/db/?quest=10683
