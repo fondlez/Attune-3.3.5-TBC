@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## Title: Attune
-## Author: CixiDelmont, Yvely (2.4.3 port)
+## Author: CixiDelmont, Yvely (2.4.3 port), fondlez (3.3.5-TBC)
 ## Notes: Track your Attunement progression
 ## SavedVariables: Attune_DB
 ## SavedVariablesPerCharacter: AttuneLastViewed, TreeExpandStatus, AttuneCompletedQuests

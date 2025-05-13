@@ -805,8 +805,8 @@ Lang["Q1_10888"] = "Die Prüfung der Naaru: Magtheridon"			-- https://de.tbc.wow
 Lang["Q2_10888"] = "A'dal in Shattrath möchte, dass Ihr Magtheridon vernichtet."
 Lang["Q1_10680"] = "Die Hand von Gul'dan"			-- https://de.tbc.wowhead.com/quest=10680
 Lang["Q2_10680"] = "Sprecht mit Erdheiler Torlok am Altar der Verdammnis im Schattenmondtal."
-Lang["Q1_13432"] = "Die Phiolen der Ewigkeit"			-- https://de.tbc.wowhead.com/quest=13432
-Lang["Q2_13432"] = "Soridormi in den Höhlen der Zeit möchte, dass Ihr die Überreste von Vashjs Phiole im Echsenkessel und die Überreste von Kaels Phiole von Kael'thas Sonnenwanderer in der Festung der Stürme besorgt."
+Lang["Q1_10445"] = "Die Phiolen der Ewigkeit"			-- https://de.tbc.wowhead.com/quest=10445
+Lang["Q2_10445"] = "Soridormi in den Höhlen der Zeit möchte, dass Ihr die Überreste von Vashjs Phiole im Echsenkessel und die Überreste von Kaels Phiole von Kael'thas Sonnenwanderer in der Festung der Stürme besorgt."
 Lang["Q1_10568"] = "Schrifttafeln von Baa´ri"			-- https://de.tbc.wowhead.com/quest=10568
 Lang["Q2_10568"] = "Anachoretin Ceyla beim Altar der Sha'tar möchte, dass Ihr 12 Schrifttafeln von Baa'ri vom Boden und von den Arbeitern der Aschenzungen in den Ruinen von Baa'ri sammelt.\n\nDas Abschließen von Quests für die Aldor führt zu einer Verringerung Eures Rufs bei den Sehern."
 Lang["Q1_10683"] = "Schrifttafeln von Baa´ri"			-- https://de.tbc.wowhead.com/quest=10683

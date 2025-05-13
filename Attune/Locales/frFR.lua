@@ -804,8 +804,8 @@ Lang["Q1_10888"] = "L'épreuve des naaru : Magtheridon"			-- https://www.thegeek
 Lang["Q2_10888"] = "A'dal de Shattrath vous demande de tuer Magtheridon."
 Lang["Q1_10680"] = "La main de Gul'dan"			-- https://www.thegeekcrusade-serveur.com/db/?quest=10680
 Lang["Q2_10680"] = "Parlez au soigneterre Torlok à l'Autel de la damnation dans la vallée d'Ombrelune."
-Lang["Q1_13432"] = "Les fioles d'éternité"			-- https://www.thegeekcrusade-serveur.com/db/?quest=13432
-Lang["Q2_13432"] = "Soridormi aux Grottes du temps vous demande de récupérer le Reste de la fiole de Vashj auprès de Dame Vashj au réservoir de Glissecroc et le Reste de la fiole de Kael auprès de Kael'thas Haut-soleil au donjon de la Tempête."
+Lang["Q1_10445"] = "Les fioles d'éternité"			-- https://www.thegeekcrusade-serveur.com/db/?quest=10445
+Lang["Q2_10445"] = "Soridormi aux Grottes du temps vous demande de récupérer le Reste de la fiole de Vashj auprès de Dame Vashj au réservoir de Glissecroc et le Reste de la fiole de Kael auprès de Kael'thas Haut-soleil au donjon de la Tempête."
 Lang["Q1_10568"] = "Tablettes de Baa'ri"			-- https://www.thegeekcrusade-serveur.com/db/?quest=10568
 Lang["Q2_10568"] = "L'anachorète Ceyla de l'Autel de Sha'tar veut que vous collectiez 12 Tablettes baa'ri sur le sol et sur les Ouvriers cendrelangue aux Ruines de Baa'ri.\n\nAccomplir des quêtes pour l'Aldor fera baisser votre réputation auprès des Clairvoyants."
 Lang["Q1_10683"] = "Tablettes de Baa'ri"			-- https://www.thegeekcrusade-serveur.com/db/?quest=10683

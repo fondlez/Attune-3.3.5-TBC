@@ -805,8 +805,8 @@ Lang["Q1_10888"] = "나루의 시험: 마그테리돈"			-- https://wow.inven.co
 Lang["Q2_10888"] = "샤트라스에 있는 아달이 마그테리돈을 처치해 달라고 부탁했습니다."
 Lang["Q1_10680"] = "굴단의 손아귀"			-- https://wow.inven.co.kr/dataninfo/wdb/edb_quest/detail.php?id=10680
 Lang["Q2_10680"] = "어둠달 골짜기의 저주의 제단에 있는 대지의 치유사 토르록과 대화해야 합니다."
-Lang["Q1_13432"] = "영원의 샘"			-- https://wow.inven.co.kr/dataninfo/wdb/edb_quest/detail.php?id=13432
-Lang["Q2_13432"] = "시간의 동굴에 있는 소리도르미가 갈퀴송곳니 저수지에 있는 여군주 바쉬에게서 유리병 잔여물을, 폭풍우 요새에 있는 캘타스 선스트라이더로부터 유리병 잔여물을 되찾아 달라고 부탁했습니다."
+Lang["Q1_10445"] = "영원의 샘"			-- https://wow.inven.co.kr/dataninfo/wdb/edb_quest/detail.php?id=10445
+Lang["Q2_10445"] = "시간의 동굴에 있는 소리도르미가 갈퀴송곳니 저수지에 있는 여군주 바쉬에게서 유리병 잔여물을, 폭풍우 요새에 있는 캘타스 선스트라이더로부터 유리병 잔여물을 되찾아 달라고 부탁했습니다."
 Lang["Q1_10568"] = "바아리 서판"			-- https://wow.inven.co.kr/dataninfo/wdb/edb_quest/detail.php?id=10568
 Lang["Q2_10568"] = "샤타르 제단에 있는 수도사 케일라가 바아리 폐허에서 바아리 서판 12개를 모아달라고 부탁했습니다. 서판은 땅에서 줍거나 폐허의 잿빛혓바닥 일꾼을 처치해서 얻을 수 있습니다\n\n알도르 사제회를 위한 퀘스트를 완료하면 점술가 길드에 대한 평판은 떨어질 것입니다."
 Lang["Q1_10683"] = "바아리 서판"			-- https://wow.inven.co.kr/dataninfo/wdb/edb_quest/detail.php?id=10683
